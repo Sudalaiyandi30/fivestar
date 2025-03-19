@@ -1,0 +1,35 @@
+QA Engineer
+Tirunelveli, TN | +91 9025103724 | sureshnambi30@gmail.com| LinkedIn va test plans Junit Automation QA test cases Appium Webdriver Mongo DB Functional Testing spring framework Performance Testing TestNG debugging API Selenium test methodologies Load Testing Agile Methodology Test Management tools Test Execution Defect Tracking Acceptance Testing Postman Jenkins
+Objective va test plans Junit Automation QA test cases Appium Webdriver Mongo DB Functional Testing spring framework Performance Testing TestNG debugging API Selenium test methodologies Load Testing Agile Methodology Test Management tools Test Execution Defect Tracking Acceptance Testing Postman Jenkins
+
+With a solid background in QA automation spanning nearly 3 years, I am excited about improving testing frameworks, and collaborating with teams. My strategic approach to advancing automation, along with a passion for technology, aligns seamlessly with the dynamic environment of a rapidly growing company. Java test plans Junit Automation QA test cases Appium Webdriver Mongo DB Functional Testing spring framework Performance Testing TestNG debugging API Selenium test methodologies Load Testing Agile Methodology Test Management tools Test Execution Defect Tracking Acceptance Testing Postman Jenkins
+Experience
+
+Atos | QA engineer Java test plans Junit Automation QA test cases Appium Webdriver Mongo DB Functional Testing spring framework Performance Testing TestNG debugging API Selenium test methodologies Load Testing Agile Methodology Test Management tools Test Execution Defect Tracking Acceptance Testing Postman Jenkins2021-Present
+Collaborated with cross-functional teams throughout the software development lifecycle to ensure product quality and adherence to project goals.
+Employed agile methodologies including Scrum, Test-Driven Development, Continuous Integration, Continuous Delivery, Regression, and Exploratory Testing as needed.
+Developed and implemented automated testing solutions to enhance software availability and quality.
+Documented detailed test cases to support automation efforts and ensure coverage across feature functionalities.
+Took an end-to-end testing approach, covering frontend and backend applications, and integrated QA processes from requirements analysis through test design, automation, and result analysis.
+Supported product and engineering teams by generating test data and addressing diverse testing use cases.
+Conducted thorough manual testing of test scenarios, communicated detailed findings, and provided sign-off upon successful completion.
+Interacted closely with Product Owners, Developers, Architects, and other QA teams to align testing with business and technical objectives.
+Partnered with product managers and engineering teams to develop comprehensive testing plans for new features and projects.
+Education
+
+Alagappa University, Karaikudi 
+Master of Computer Application
+Manonmaniam Sundaranar University 
+Bachelor of Computer Application
+Skills & abilities
+
+Java with Selenium WebDriver
+My-SQL
+API Testing (REST Assured, Postman)
+BDD-Cucumber
+GitHub 
+Spot Recognition Award
+
+Recognized for exceptional performance in manual testing, ensuring zero defects for customers within
+a specified timeframe. Demonstrated meticulous attention to detail and a thorough understanding of
+testing methodologies to deliver high-quality software products.
